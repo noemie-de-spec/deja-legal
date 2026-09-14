@@ -3,7 +3,7 @@ DÉJÀ. — Politique de confidentialité
 DÉJÀ.
 POLITIQUE DE CONFIDENTIALITÉ
 Version 1.0 — 13 septembre 2026
-S'applique à l'app iOS DÉJÀ. (bundle ai.mwm.154d398b-4170-4541-8276-ffbd56e4430f).
+S'applique à l'app iOS DÉJÀ.
 
 1.  Qui est responsable
 Le responsable du traitement est Noémie DEPIROU.
